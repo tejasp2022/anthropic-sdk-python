@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.96.1 (2026-04-20)
+
+Full Changelog: [v0.96.0...v0.96.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.96.0...v0.96.1)
+
+### Performance Improvements
+
+* **client:** optimize file structure copying in multipart requests ([1f9eed3](https://github.com/anthropics/anthropic-sdk-python/commit/1f9eed3a953c8cef0967df8470e04f7ac8fe3235))
+
+
+### Chores
+
+* **tests:** bump steady to v0.22.1 ([a4b7184](https://github.com/anthropics/anthropic-sdk-python/commit/a4b7184e57410ae92a409db5ee6fec90edceaa51))
+
 ## 0.96.0 (2026-04-16)
 
 Full Changelog: [v0.95.0...v0.96.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.95.0...v0.96.0)
